@@ -16,7 +16,7 @@ public class RestTest {
     // change these values to your UserId and API Key
     private final static String MyUserId = "YourUserIdHere";
     private final static String MyAPIKey =  "YourAPIKeyHere";
-    private final static String BaseURL = "http://api.usft.com/v1/";
+    private final static String BaseURL = "https://api.usft.com/v1/";
 
     // change this function to alter how the program displays output
     private static void Print(String what)
